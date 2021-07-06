@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/KjFHS5Q/FA-icon-gif.gif" width="150" height="150" />
+  <img src="https://i.ibb.co/Yy8TNdm/ezgif-com-gif-maker-2.gif" />
+  
   <br />
 
   <a href="https://www.python.org/downloads/">
