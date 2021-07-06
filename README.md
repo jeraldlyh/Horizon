@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/ZKTbQJJ/FALogo.png" width="150" height="150" />
+  <img src="https://i.ibb.co/KjFHS5Q/FA-icon-gif.gif" width="150" height="150" />
   <br />
 
   <a href="https://www.python.org/downloads/">
